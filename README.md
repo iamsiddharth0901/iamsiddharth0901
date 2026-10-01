@@ -1,149 +1,42 @@
-# Hi, I'm Siddharth 👋
+# Siddharth Pandab
 
-### Computer Science Student | AI & ML | Data Analytics
+**AI Engineer · Machine Learning · Data Systems**
+B.Tech, Computer Science (AI & ML) · SRM Institute of Science and Technology · CGPA 9.14
 
-I'm a Computer Science student specializing in Artificial Intelligence & Machine Learning at **SRM Institute of Science and Technology**.
-
-I enjoy building practical systems around **machine learning, deep learning, data analytics, and computer vision**.
-
----
-
-## 🎯 Current Focus
-
-* Machine Learning & Deep Learning
-* Computer Vision
-* Data Analytics & Visualization
-* GPU-Accelerated ML
-* Building deployable AI applications
+I design and build AI systems end to end: from data pipelines and model training to LLM-powered applications that are grounded, evaluated, and deployable. My work spans retrieval-augmented generation, medical imaging, financial analytics, and recommendation systems.
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
 
-**Languages**
-
-`Python` `C++` `SQL`
-
-**AI / ML**
-
-`scikit-learn` `Deep Learning` `RAPIDS` `cuDF` `cuML`
-
-**Data**
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
-
-**Development & Tools**
-
-`Flask` `MySQL` `Power BI` `Git`
+**AI Intern, Power Grid Corporation of India** · Dec 2025 – Jan 2026
+Analyzed power system data to surface anomalies and inefficiencies, built classification and regression models for system behavior, and automated analysis workflows for faster, reproducible results.
 
 ---
 
-## 🚀 Featured Projects
+## Expertise & Projects
 
-### Financial Market Risk Analyzer
-
-GPU-accelerated financial analytics pipeline for volatility analysis and Value at Risk (VaR) modeling using RAPIDS, Python, cuDF and cuML.
-
-### Brain Tumor Segmentation
-
-Attention-based ResUNet model for brain tumor segmentation from MRI scans using deep learning and medical imaging techniques.
-
-### Drug Recommendation System
-
-End-to-end disease prediction and medication recommendation system integrating deep learning, Flask and drug-interaction APIs.
-
-### Startup-Investor Matching Platform
-
-Machine-learning recommendation platform for matching startups with suitable investors, supported by Flask, SQL and structured data workflows.
+| Expertise | Project | What it delivers | Stack |
+|---|---|---|---|
+| **AI Engineering & LLM Applications** | [FinSight AI](#) | RAG and agent-based financial research assistant with cited answers, hallucination checks, and evaluation | LangChain, Hugging Face, Vector DB, FastAPI, Docker |
+| **Computer Vision & Medical AI** | [Brain Tumor Segmentation](#) | Multi-Scale Attention ResUNet for precise tumor segmentation, with robust preprocessing and augmentation | Deep Learning, ResUNet, attention |
+| | [Drug Recommendation System](#) | Pipeline from chest X-ray to disease prediction, drug-interaction validation, and medication recommendation | ResNet, Flask, external APIs |
+| **High-Performance Data & Financial Analytics** | [Financial Market Risk Analyzer](#) | GPU-accelerated volatility modeling and Value at Risk on large datasets, far faster than pandas workflows | RAPIDS (cuDF, cuML), Python |
+| **Recommender Systems & Applied ML** | [Startup–Investor Matching Platform](#) | Matching engine with custom scoring logic, reaching 82% accuracy, plus role-based dashboards | scikit-learn, Flask, SQL |
+| **Optimization & Systems Design** | [Railway Seat Optimization](#) | Dynamic seat allocation that cut waitlist volume by 35% | Java, Swing, JDBC |
 
 ---
 
-## 📊 What I'm Building
+## Technical Strengths
 
-I'm currently interested in the intersection of:
-
-**AI + Data + Systems**
-
-with a focus on turning machine-learning models into practical, usable applications.
-
----
-
-## 📫 Connect With Me
-
-[LinkedIn](# Hi, I'm Siddharth 👋
-
-### Computer Science Student | AI & ML | Data Analytics
-
-I'm a Computer Science student specializing in Artificial Intelligence & Machine Learning at **SRM Institute of Science and Technology**.
-
-I enjoy building practical systems around **machine learning, deep learning, data analytics, and computer vision**.
+- **AI Engineering:** RAG pipelines, LangChain agents, embeddings and vector search, Hugging Face models, LLM evaluation, prompt-injection defense
+- **Machine Learning:** feature engineering, model evaluation, classification, regression, recommendation systems
+- **Deep Learning & Vision:** CNN/ResNet architectures, attention mechanisms, medical image segmentation
+- **Data & Analytics:** EDA, SQL (MySQL, SQL Server), GPU-accelerated processing, Plotly, Seaborn, Power BI
+- **Engineering & Deployment:** Python, C++, FastAPI, Flask, Docker, Git
 
 ---
 
-## 🎯 Current Focus
+## Get in Touch
 
-* Machine Learning & Deep Learning
-* Computer Vision
-* Data Analytics & Visualization
-* GPU-Accelerated ML
-* Building deployable AI applications
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Python` `C++` `SQL`
-
-**AI / ML**
-
-`scikit-learn` `Deep Learning` `RAPIDS` `cuDF` `cuML`
-
-**Data**
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
-
-**Development & Tools**
-
-`Flask` `MySQL` `Power BI` `Git`
-
----
-
-## 🚀 Featured Projects
-
-### Financial Market Risk Analyzer
-
-GPU-accelerated financial analytics pipeline for volatility analysis and Value at Risk (VaR) modeling using RAPIDS, Python, cuDF and cuML.
-
-### Brain Tumor Segmentation
-
-Attention-based ResUNet model for brain tumor segmentation from MRI scans using deep learning and medical imaging techniques.
-
-### Drug Recommendation System
-
-End-to-end disease prediction and medication recommendation system integrating deep learning, Flask and drug-interaction APIs.
-
-### Startup-Investor Matching Platform
-
-Machine-learning recommendation platform for matching startups with suitable investors, supported by Flask, SQL and structured data workflows.
-
----
-
-## 📊 What I'm Building
-
-I'm currently interested in the intersection of:
-
-**AI + Data + Systems**
-
-with a focus on turning machine-learning models into practical, usable applications.
-
----
-
-## 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/siddharth-pandab-1aa860371/) • [Email](mailto:iamsiddharthpandab.0901@gmail.com)
-
----
-
-
+[LinkedIn](https://www.linkedin.com/in/siddharth-pandab-1aa860371/) · [Email](mailto:iamsiddharthpandab.0901@gmail.com)
